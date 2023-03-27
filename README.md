@@ -1,2 +1,4 @@
 # Odin-Project-01
-First website project on The Odin Project
+My fiirst website project for The Odin Project
+
+https://www.theodinproject.com/lessons/foundations-landing-page
