@@ -60,6 +60,11 @@ a {
     max-width : 360px;
 }
 
-#signup-top {
+#desc-text {
+    width : 440px;
+}
 
+#signup-top {
+    background-color : #3882f6;
+    width : 96px;
 }
