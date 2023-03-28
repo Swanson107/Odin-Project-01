@@ -44,9 +44,13 @@ a {
     margin-right : 64px;
 }
 
+.header-left {
+    margin-left : 96px;
+}
+
 .top-content {
     display : flex;
-    justify-content : space-around;
+    justify-content : start;
     background-color : #1F2937;
     color : #F9FAf8;
     height : 280px;
@@ -59,13 +63,19 @@ a {
     flex-direction : column;
     justify-content : start;
     max-width : 360px;
+    margin-left : 272px;
 }
 
-#desc-text {
-    width : 440px;
+#placeholder {
+    margin-left : 400px;
+    margin-top : 100px;
 }
 
 #signup-top {
     background-color : #3882f6;
-    width : 96px;
+    color : #F9FAf8;
+    width : 128px;
+    border : none;
+    border-radius : 30px;
+    height : 32px;
 }
