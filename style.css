@@ -108,11 +108,11 @@ a {
 }
 
 .cardbox {
-    width : 100px;
-    height : 100px;
+    width : 155px;
+    height : 155px;
     margin-left : 50px;
     margin-right : 50px;
-    border : 2px solid #3882f6;
+    border : 3px solid #3882f6;
     border-radius : 16px;
 }
 
@@ -120,5 +120,16 @@ a {
     display : flex;
     justify-content : space-evenly;
     align-items : center;
-    max-width : 800px;
+    margin-left : 20px;
+    color : #1f2937;
+    font-size : 16px;
+    font-weight : 200;
+}
+
+.card-subtext {
+    width : 160px;
+    height : 160px;
+    margin-left : 50px;
+    margin-right : 50px;
+
 }
